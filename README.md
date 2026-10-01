@@ -1,3 +1,5 @@
+<code>
+
 <!DOCTYPE html>
 <html lang="el">
 <head>
@@ -291,3 +293,5 @@ configurationBackup.cfg<br>
  </script>
 </body>
 </html>
+</body>
+</code>

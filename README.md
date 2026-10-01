@@ -1,6 +1,3 @@
-# speedport_plus_2_decrypt
-speedport_plus_2_decrypt
-
 <!DOCTYPE html>
 <html lang="el">
 <head>
